@@ -5,6 +5,8 @@ Server JSON
 
 Create dir server-json
 
+cd serber-json
+
 npm istall -g json-server
 
 download db.json
