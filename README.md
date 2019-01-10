@@ -5,7 +5,7 @@ Server JSON
 
 Create dir server-json
 
-cd serber-json
+cd server-json
 
 npm istall -g json-server
 
